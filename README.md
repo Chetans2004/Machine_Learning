@@ -1,8 +1,8 @@
 Hi, I'm **Chetan Shinagari**  
 This repository tracks my daily progress as I learn **Machine Learning** step-by-step.
 ## 📅 Progress
-Day 1
-  ## Numpy
+## Day 1
+  **Numpy**
   **Topics Covered:**
 - Introduction to NumPy  
 - Creating and manipulating arrays  
@@ -15,7 +15,7 @@ Day 1
 - NumPy arrays are much faster and more memory-efficient than Python lists.  
 - Learned how to perform element-wise operations and basic statistics easily.  
 
-  ## Pandas
+  **Pandas**
   **Topics Covered:**
 - Introduction to Pandas  
 - DataFrames and Series  

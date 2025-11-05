@@ -28,3 +28,16 @@ This repository tracks my daily progress as I learn **Machine Learning** step-by
 **Key Learnings:**
 - Pandas helps in data cleaning and manipulation.  
 - Realized how easy it is to handle missing values and explore data.  
+
+## Day 2 – Seaborn
+
+* Today I learned Seaborn, a powerful Python library used for data visualization.
+   It helps create beautiful and informative statistical graphs easily.
+
+- Topics Covered:
+  - Introduction to Seaborn
+  - Line plot, Scatter plot, and Relational plots
+  - Categorical plots (bar, box, violin)
+  - Distribution plots (histplot, distplot)
+  - Using hue, style, and palette for customization
+  - Adding titles, labels, and improving visualization style

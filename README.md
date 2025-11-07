@@ -41,3 +41,32 @@ This repository tracks my daily progress as I learn **Machine Learning** step-by
   - Distribution plots (histplot, distplot)
   - Using hue, style, and palette for customization
   - Adding titles, labels, and improving visualization style
+
+  #  Day 3 – Machine Learning Basics
+
+##  Topics Covered
+Today, I learned about the **basics of Machine Learning** and its **types**.
+
+###  What is Machine Learning?
+Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables systems to automatically learn and improve from experience **without being explicitly programmed**.
+
+###  Key Concepts Learned
+- Definition and importance of Machine Learning  
+- Real-world examples of ML applications  
+- Difference between AI, ML, and Deep Learning  
+- Steps involved in a Machine Learning project  
+
+###  Types of Machine Learning
+1. **Supervised Learning** – Model learns from labeled data.  
+   Examples: Linear Regression, Decision Trees, Random Forest  
+2. **Unsupervised Learning** – Model works with unlabeled data to find patterns.  
+  Examples: K-Means Clustering, PCA  
+3. **Reinforcement Learning** – Model learns by interacting with an environment and receiving rewards or penalties.  
+   Examples: Self-driving cars, Game-playing agents  
+
+---
+
+##  Summary
+I now understand what ML is, why it’s used, and the main categories it falls into.  
+This knowledge forms the **foundation for building and training ML models** in the upcoming days.
+

@@ -42,7 +42,7 @@ This repository tracks my daily progress as I learn **Machine Learning** step-by
   - Using hue, style, and palette for customization
   - Adding titles, labels, and improving visualization style
 
-  #  Day 3 – Machine Learning Basics
+ ##  Day 3 – Machine Learning Basics
 
 ##  Topics Covered
 Today, I learned about the **basics of Machine Learning** and its **types**.
@@ -70,3 +70,83 @@ Machine Learning (ML) is a subset of Artificial Intelligence (AI) that enables s
 I now understand what ML is, why it’s used, and the main categories it falls into.  
 This knowledge forms the **foundation for building and training ML models** in the upcoming days.
 
+
+
+## Day 4 – Linear Regression
+1. What is Linear Regression?
+
+  - A supervised ML algorithm used for predicting continuous values.
+  - Finds the best-fit line between input (X) and output (y).
+
+ 2. Types of Linear Regression
+  - Simple Linear Regression (one feature)
+  - Multiple Linear Regression (multiple features)
+
+ 3. Key Concepts
+  - Dependent & Independent variables
+  - Best-fit line
+  - Slope (m) & Intercept (b)
+  - Hypothesis function:
+   - y=mX+b
+
+ 4. Cost Function
+  - Measures error between predicted and actual values.
+  - Mean Squared Error (MSE) is commonly used.
+
+ 5. Gradient Descent
+  - Optimization algorithm used to minimize cost.
+  - Updates parameters (m, b) until best line is found.
+
+ 6. Evaluation Metrics
+  - R² Score
+  - MAE
+  - MSE
+  - RMSE
+
+  7. Assumptions of Linear Regression
+    - Linearity
+    - No multicollinearityHomoscedasticity
+    - Normality of residuals
+    - Independence of errors
+
+ 8. Practical Work Done
+    - Loaded dataset (Advertising dataset)
+    - Explored features
+    - Trained a Linear Regression model
+    - Evaluated predictions using R², MSE, RMSE
+
+
+## Day 5 – Logistic Regression (Simple Summary)
+✔ 1. What is Logistic Regression?
+
+  A machine learning algorithm used for classification (yes/no, 0/1).
+
+ 2. Sigmoid Function
+  Converts output into a probability between 0 and 1.
+  If probability > 0.5 → class 1
+  Else → class 0
+
+ 3. Where Logistic Regression is used
+  Spam vs Not Spam
+  Diabetic vs Not Diabetic
+  Fraud vs Legit
+  Pass vs Fail
+
+ 4. Types
+  Binary (0 or 1)
+  Multiclass (more than 2 classes)
+
+ 5. Evaluation Metrics
+  Accuracy
+  Confusion Matrix
+  Precision
+  Recall
+  F1-score
+
+ 6. Advantage
+  Simple
+  Fast
+  Good for linearly separable data
+
+ 7. Limitation
+ Not good for non-linear problems
